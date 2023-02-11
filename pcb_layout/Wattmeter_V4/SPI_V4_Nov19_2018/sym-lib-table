@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "WattMeter_v4_SPI_Nov19_2018-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/WattMeter_v4_SPI_Nov19_2018-eagle-import.kicad_sym")(options "")(descr ""))
+)
